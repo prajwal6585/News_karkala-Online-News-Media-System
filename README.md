@@ -1,6 +1,18 @@
+Introduction
+
 https://github.com/user-attachments/assets/22b5351a-b540-41b0-8751-cf96745e4c78
+
+Admin Page:
+
 https://github.com/user-attachments/assets/ce00732c-6760-4cb3-93f1-9b07ff819aba
 
+Employee Page:
+
+https://github.com/user-attachments/assets/4cb40cb5-286d-45eb-af97-3f1cf97df2ea
+
+User Page:
+
+https://github.com/user-attachments/assets/40917b62-2ee3-43dd-a747-45260955cc52
 
 Project Setup:
 
@@ -32,21 +44,14 @@ Step 3:
       Replace Your Your_email_password with actual emailId
       Replace your Your_email_password with actual password
 
-For Further can refer Video
-
-Introduction
 
 
 
-Admin Page:
 
 
-Employee Page:
-https://github.com/user-attachments/assets/4cb40cb5-286d-45eb-af97-3f1cf97df2ea
 
 
-User Page:
-https://github.com/user-attachments/assets/40917b62-2ee3-43dd-a747-45260955cc52
+
 
 
 
