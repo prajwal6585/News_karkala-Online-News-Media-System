@@ -1,3 +1,7 @@
+https://github.com/user-attachments/assets/22b5351a-b540-41b0-8751-cf96745e4c78
+https://github.com/user-attachments/assets/ce00732c-6760-4cb3-93f1-9b07ff819aba
+
+
 Project Setup:
 
 
@@ -31,12 +35,10 @@ Step 3:
 For Further can refer Video
 
 Introduction
-https://github.com/user-attachments/assets/22b5351a-b540-41b0-8751-cf96745e4c78
 
 
 
 Admin Page:
-https://github.com/user-attachments/assets/ce00732c-6760-4cb3-93f1-9b07ff819aba
 
 
 Employee Page:
