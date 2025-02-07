@@ -39,11 +39,11 @@ Step 3:
       Place the Downloaded Project inside xammp->htdocs->newskarkala
 
 
-      Open Browser 
+Open Browser 
 
-      Type localhost/newskarkala/
+   Type localhost/newskarkala/
 
-      To use Mailing Function setup your Custom app password of your email to setup SMTP mail server refre any youtube video
+To use Mailing Function setup your Custom app password of your email to setup SMTP mail server refre any youtube video
       Open controller.php file
       Replace Your Your_email_password with actual emailId
       Replace your Your_email_password with actual password
